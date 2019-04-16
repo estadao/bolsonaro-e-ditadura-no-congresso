@@ -1,0 +1,7 @@
+Feito usando Anaconda/Python 3, com os seguintes pacotes:
+
+beautifulsoup4 == 4.6.0
+pandas == 0.20.3
+requests == 2.18.4
+tqdm == 4.3.2
+unidecode == 1.10.23
